@@ -1,4 +1,4 @@
-![Icon-MacOS-512x512@2x](https://github.com/prestonmohr/tree-builder/assets/77995599/e6a708ce-cc7d-41fc-8541-c1ed22e073ba)
+![Icon-MacOS-128x128@1x](https://github.com/prestonmohr/tree-builder/assets/77995599/225b5354-0ffb-4482-b425-fcc6eec42655)
 
 # tree-builder
 a macOS filetree generator built with SwiftUI
