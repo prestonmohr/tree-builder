@@ -5,15 +5,10 @@
 # tree-builder
 a macOS filetree generator built with SwiftUI
 
-</div>
+<img src="https://github.com/prestonmohr/tree-builder/assets/77995599/d76ae950-15cc-4278-b8e3-f05e33f3b314" width="544" alt="Image 1">
 
-<div align="center">
+specify the path, depth, and style of the tree
 
-<div style="display: inline-block; margin-right: 10px;">
-  <img src="https://github.com/prestonmohr/tree-builder/assets/77995599/d76ae950-15cc-4278-b8e3-f05e33f3b314" width="544" alt="Image 1">
-</div>
-<div style="display: inline-block;">
-  <img src="https://github.com/prestonmohr/tree-builder/assets/77995599/708fec03-53cd-494d-a568-4d481f969ba4" width="544" alt="Image 2">
-</div>
+<img src="https://github.com/prestonmohr/tree-builder/assets/77995599/708fec03-53cd-494d-a568-4d481f969ba4" width="544" alt="Image 2">
 
 </div>
