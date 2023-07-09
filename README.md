@@ -3,4 +3,4 @@
 # tree-builder
 a macOS filetree generator built with SwiftUI
 
-<img width="544" alt="tree-builer_screenshot_01" src="https://github.com/prestonmohr/tree-builder/assets/77995599/664fafdd-2c8f-401b-858e-a8210b6c126a">
+<img width="544" alt="tree-builer_screenshot_01" src="https://github.com/prestonmohr/tree-builder/assets/77995599/b57a914a-52e4-4ebf-ac6a-aadee8cad0db">
